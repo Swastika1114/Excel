@@ -49,40 +49,61 @@ However, the "Other" category had the highest purchases, amounting to ₹256,902
 **Q4. What is different order status in 2022?**
 
 Even Distribution: The order statuses are fairly evenly distributed, with each category making up around a quarter of the total.
+
 High Cancellation Rate: The "Cancelled" orders constitute 26% of the total, which might indicate some issues that need addressing to reduce cancellations.
+
 Returned Orders: With 24% of orders being returned, this could highlight potential quality issues or customer dissatisfaction that warrants further investigation.
+
 Efficient Processing: "Processing" and "Shipped" statuses are almost evenly matched, showing a balanced workflow from order placement to fulfillment.
 
 **Q5. List top 4 states contributing to the sales?**
 
 California         133767.4
+
 Illinois              147556.37
+
 New York         126039.22
+
 Pennsylvania    117395.9
 
 **Q6. Relation between age and gender based on numbers?**
 
 Gender Representation:
+
 Females: Higher percentages in the Adult category (13.12%) compared to Seniors (11.06%) and Teenagers (8.90%).
+
 Males: Lead in the Adult category (15.00%) with a noticeable drop in Seniors (8.95%) and a slight increase in Teenagers (9.11%).
+
 Others: Show the highest percentage in the Adult category (15.56%) and a relatively balanced distribution across Seniors (11.54%) and Teenagers (6.76%).
+
 Age Group Insights:
+
 The Adult category consistently shows the highest percentages across all gender labels.
+
 Teenagers tend to have the lowest percentage contribution compared to Adults and Seniors.
 
 **Q7. Which channel is contributing to maximum sales?**
 
 Online Dominance: The online channel has a slight edge, accounting for 51% of the orders. This suggests a growing trend towards online shopping, possibly driven by convenience and accessibility.
+
 Balanced Distribution: Despite the online channel leading, the offline channel remains strong, representing 49% of the orders. This indicates a significant customer base still prefers traditional in-store shopping.
+
 Strategic Insights: Understanding this distribution can help businesses allocate resources effectively. They might invest more in their online infrastructure to capitalize on the trend while maintaining offline stores to cater to loyal in-store customers.
 
 **Q8. Highest selling category?**
 
 The highest selling category is Fashion with a sum of amount equal to ₹137,515.85.
+
 Here's the breakdown of the categories and their amounts:
+
 Beauty: ₹127,807.08
+
 Books: ₹131,214.79
+
 Electronics: ₹100,327.62
+
 Fashion: ₹137,515.85
+
 Home: ₹132,631.41
+
 Sports: ₹129,134.2
